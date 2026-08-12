@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.netlify/
+
+# Raw source files (optimized copies live in assets/)
+/parth3.png
+/Parth_Patel_Resume_new_1.pdf
